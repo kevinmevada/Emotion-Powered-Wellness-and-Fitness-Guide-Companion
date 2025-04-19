@@ -1,0 +1,11 @@
+streamlit
+deepface
+opencv-python-headless
+pandas
+numpy
+tensorflow
+ml-dtypes
+tensorboard
+tf-keras
+python-dotenv
+bcrypt
